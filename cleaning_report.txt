@@ -1,0 +1,28 @@
+=======================================================
+DATA CLEANING REPORT
+Generated: 2026-04-22 16:48
+=======================================================
+
+BEFORE CLEANING:
+  Total rows:        154
+  Duplicate rows:    3
+  Missing values:    1940
+
+AFTER CLEANING:
+  Total rows:        151
+  Duplicate rows:    0
+  Missing values:    577
+
+ISSUES FIXED:
+  ✓ Removed 3 duplicate rows
+  ✓ Stripped leading/trailing whitespace from all text fields
+  ✓ Standardised capitalisation to Title Case for key fields
+  ✓ Standardised CONDITION column from numeric to descriptive text
+  ✓ Standardised CREATED date column to YYYY-MM-DD format
+  ✓ Filled 92 missing SERIAL values with placeholder
+  ✓ Filled 8 missing MODEL values with placeholder
+  ✓ Cleaned MANUFACTURER field — removed numeric prefixes
+  ✓ Dropped 7 fully empty columns
+  ✓ Removed 6 photo URL columns — not relevant to asset data
+
+=======================================================

@@ -1,0 +1,152 @@
+ADDRESS,LOCATION,CITY,FAI ID,ASSET TAG,ASSET TYPE,MANUFACTURER,MODEL,SERIAL,MANUFACTURER DATE,CONDITION,CREATED,NOTES,SOURCE,UNIQUE FIELDS,STATE,ZIP,REFRIGERANT CHARGE,REFRIGERANT UNIT,REFRIGERANT TYPE,AREA
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,770487,7700828,Electrical Panel,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Outside
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,216739,7073292,Vr (Veeder Root),Veeder-Root,0,UNKNOWN,,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,126225,4679591,Printer/Machine,Manufacturer Not Listed,0,UNKNOWN,,Good,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,877572,3320821,Printer/Machine,Mako Network,UNKNOWN,UNKNOWN,,Good,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,388389,9548432,Electrical Panel,Siemens,0,UNKNOWN,,Excellent,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,356787,9279821,Electrical Panel,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,334053,2525206,Air Fryer,Ninja,0,UNKNOWN,,Fair,2025-10-27,G,FORM_SUBMISSION,{},TX,78701,,,,Back Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,246316,1790481,Convection Oven,Otis,0,UNKNOWN,,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,872246,2839607,Coffee/Tea Brewer,Bunn,TF SERVER 15G MECH GEN3,TFC1119907,,Good,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,207473,3564251,Hand Sink,Advance Tabco,0,UNKNOWN,,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,809570,3684052,1 Door Reach-In Refrigerator,Duke Manufacturing Co,GDM23HCTSL01,9186711,05/23/2017,Fair,,Good,FORM_SUBMISSION,{},TX,78701,4.1,OZ,R290,Back Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,876646,8082668,1 Door Reach-In Refrigerator,Everest Refrigeration,EMGF23,BMGF2316120003,04/16/2023,Good,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,19.75,OZ,R404A,Back Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,671858,2065818,2 Door Upright Reach-In Freezer,True Manufacturing,T-23F,1-2915900,05/06/2001,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,12,OZ,R404A,Back Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,191161,7455324,2 Door Upright Reach-In Freezer,Beverage-Air Corporation,HBF49-1,11307357,07/24/2011,Good,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,26,lb,R404A,Back Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,719176,7402509,3 Compartment Sink,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,542417,8852574,Mop Sink,Manufacturer Not Listed,0,UNKNOWN,,Poor,2025-10-27,Fair,FORM_SUBMISSION,{},TX,78701,,,,Back Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,133326,9877065,Fire Suppression System Kit/Hood,0Ahu Fire Protection Inc.,0,UNKNOWN,,Excellent,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,131244,5218028,Printer/Machine,Linksys,E5350,30K10M2BC04373,,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,198246,1192619,Printer/Machine,Linksys,E5350,30K10M2BC03688,,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,329258,2921859,Printer/Machine,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,343962,5476583,Printer/Machine,Inseego,FX3100-1,990017990618510,,Fair,,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,629903,6707197,Bill Recycler,"Citizen Systems Japan Co.,Ltd.",TZ30-M01,TZ3022Y2937,,Poor,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,731262,2871534,Monitor,Manufacturer Not Listed,0,UNKNOWN,,Poor,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,127824,5924115,Monitor,Honeywell,PRO SERIES,UNKNOWN,,Good,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,688508,8294150,Intercom System,Intracom,445AA,666855,,Poor,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,308496,3653446,Time Clock,Dayforce,0,UNKNOWN,,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,850800,8612220,Phone,Cisco,CP8841,FCH2107D498,02/02/2017,Poor,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,781453,1054447,Intercom System,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Outside
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,835392,5418934,Cash/Drop Box,Manufacturer Not Listed,0,UNKNOWN,,Good,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,671412,9398441,Monitor,Insignia,0,UNKNOWN,,Good,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,539898,3997281,Electrical Panel,Manufacturer Not Listed,0,UNKNOWN,,Poor,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,331148,9517485,Phone,At&T,E5827,EV402848279,,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,571029,2785277,Printer/Machine,Manufacturer Not Listed,OM5224AS,2406125698,,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,717889,6007072,Phone,Panasonic,PNLC1079 YA,UNKNOWN,,Good,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,391704,9517169,Safe,Armor Safe Tecnologies,UNKNOWN,250373021041,,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,948749,4337174,Hand Sink,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,106814,3564217,Refrigerator Upright Reach In,Anthonys Mfg,0101PRNTCFLCLUL,UNKNOWN,02/19/1997,Excellent,2025-10-27,G,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,895667,7273233,Refrigerator Upright Reach In,Anthonys Mfg,0101PRNTCFLCLUL,UNKNOWN,02/19/1997,Excellent,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,944962,3710343,1 Door Reach-In Refrigerator,Anthonys Mfg,101NORLT,3346936,,Good,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,267414,9897858,Beer Cave,Anthonys Mfg,103NAXNTCFLCLUL,3346936,12/08/2023,Fair,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,832052,1009594,Vacuum System,Air Saver,UNKNOWN,110553,,Fair,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Outside
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,543143,6438436,Tire Air Machine,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Outside
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,456778,9197443,Vacuum System,Air Saver,UNKNOWN,110546,,Good,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Outside
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,391369,1326765,Surveillance System,Manufacturer Not Listed,IP-5IRD8S3B4-28,23065IRD8S3B4280239,,Fair,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Carwash
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,263032,2876828,Electrical Panel,Manufacturer Not Listed,0,UNKNOWN,,Good,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Carwash
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,325772,7089806,Electrical Panel,Eaton,0,UNKNOWN,,Fair,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Carwash
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,900581,6159230,Electrical Panel,Ryko,0,UNKNOWN,,Poor,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Carwash
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,452944,5017343,Electrical Panel,Grundfos,A9908018910000252P12313,95120839,,Poor,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Carwash
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,207175,1971823,Electrical Panel,Mark Vii,LOW PRESSURE SPOT RINSE PUMPING PLANT 15 HP,SWX-00690,10/30/2023,Fair,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Carwash
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,197251,5041154,Electrical Panel,Manufacturer Not Listed,UNKNOWN,UNKNOWN,,Fair,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Carwash
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,498382,2321324,Electrical Panel,Manufacturer Not Listed,7040-4161,UNKNOWN,,Fair,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Carwash
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,201414,2437026,Carwash,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Outside
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,476417,9153566,Falcon Handheld Price Scanner,Falcon,FALCONX3,G17D07538,04/01/2017,Fair,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Front Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,988662,2161193,Printer/Machine,Zebra,ZQ610,XXZJN222208105,,Fair,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Front Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,460663,9937326,Trash Valet,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Outside
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,733052,3109911,Pump Dispenser,Manufacturer Not Listed,NN1,EN00287522,06/10/2024,Good,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Outside
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,377370,3154051,Electrical Panel,Manufacturer Not Listed,0,UNKNOWN,,Good,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Outside
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,946335,8973915,Trash Valet,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Outside
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,145561,3770370,Pump Dispenser,Manufacturer Not Listed,NL1,EN00287523,04/23/2024,Good,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Outside
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,865179,5446912,Fire Extinguisher,0Ahu Fire Protection Inc.,0,UNKNOWN,,Good,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Outside
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,581741,9852897,Trash Valet,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Outside
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,662275,8099076,Pump Dispenser,Manufacturer Not Listed,NL1,EN00287524,07/16/2024,Good,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Outside
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,230889,4553384,Trash Valet,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-26,Good,FORM_SUBMISSION,{},TX,78701,,,,Outside
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,496922,4374754,Pump Dispenser,Gilbarco,NN1,EN00287521,05/28/2024,Good,,Good,FORM_SUBMISSION,{},TX,78701,,,,Outside
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,182627,6229731,Bos (Back Office Computer),Manufacturer Not Listed,0,UNKNOWN,,Poor,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,678856,7693979,Bos (Back Office Computer),Cisco,0,UNKNOWN,,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,407419,7264956,Bos (Back Office Computer),Apc,0,UNKNOWN,,Poor,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,969693,8350099,Bos (Back Office Computer),Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,759176,9683481,Bos (Back Office Computer),Manufacturer Not Listed,0,UNKNOWN,,Poor,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,748564,8574680,Bos (Back Office Computer),Apc,0,UNKNOWN,,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,479201,3030113,Surveillance System,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,705397,5159166,Surveillance System,Element,0,UNKNOWN,,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,301629,4769795,Monitor,Element,0,UNKNOWN,,Unknown,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,838797,2074176,Hand Sink,Manufacturer Not Listed,0,UNKNOWN,,Good,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,172933,6672134,Toilet,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,148050,1352896,Credit Card Reader,Ens,3673046E,181018500,,Good,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,793384,4860684,Cash Registers - Pos,Pax Computer Techonology,SP30,3A661350,09/26/2025,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,338968,4694634,Falcon Handheld Price Scanner,Honeywell,1900GSR2EZ,18260B0553,,Good,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,910620,1120642,Printer/Machine,Epson,M296A,X8NQ021626,,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,403445,2191066,Cash Registers - Pos,Gilbarco,0,UNKNOWN,,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,183667,1987737,Monitor,Gilbarco,PA0324P,S60,,Unknown,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,996865,4841005,Bos (Back Office Computer),Dell,LATITUDE 5420,UNKNOWN,,Good,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,344098,2130789,Hp Desk Printer,Hp,0,UNKNOWN,,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,205907,1527021,Printer/Machine,Zebra,ZD410,50J191802332,05/01/2019,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,498591,6543670,Bos (Back Office Computer),Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Office / Business Office
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,391476,2188789,Air Compressor,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,575435,9626108,Air Compressor,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,766563,4993055,Air Compressor,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,974628,5672073,Air Compressor,Manufacturer Not Listed,0,UNKNOWN,,Poor,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,482554,9143903,Hot Holding Cabinet,Antunes,SDC500,23091280,,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Behind Cash Register
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,270555,4594297,Cash Registers - Pos,Ens,3673046,180620-28,,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Behind Cash Register
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,488162,3219824,Cash Registers - Pos,Pax Computer Techonology,A80,1240132809,09/26/2025,Good,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Behind Cash Register
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,472528,8930103,Electrical Panel,Honeywell,1900GSR-2-EZ,18259B06C0,,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Behind Cash Register
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,319684,5076817,Printer/Machine,Epson,M296A,U7FF023197,,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Behind Cash Register
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,802729,8935169,Cash/Drop Box,Gilbarco,0,UNKNOWN,,Fair,2025-10-25,G,FORM_SUBMISSION,{},TX,78701,,,,Behind Cash Register
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,379946,7829332,Monitor,Gilbarco,PA0324PC60C,S311580609,,Fair,2025-10-25,G,FORM_SUBMISSION,{},TX,78701,,,,Behind Cash Register
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,835911,4194548,Electrical Panel,Apc,BVN650M1,UNKNOWN,,Good,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Behind Cash Register
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,816751,2582524,Cash Registers - Pos,Pax Computer Techonology,SP30,3A765806,,Poor,2025-10-25,Fair,FORM_SUBMISSION,{},TX,78701,,,,Behind Cash Register
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,779514,2626229,Cash Registers - Pos,Pax Computer Techonology,A80,1240168244,,Poor,2025-10-25,Fair,FORM_SUBMISSION,{},TX,78701,,,,Behind Cash Register
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,174870,8231838,Cash Registers - Pos,Wayne Fueling Systems,0,UNKNOWN,,Fair,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Behind Cash Register
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,738720,6944126,Beverage Dispenser,Cornelius,0,UNKNOWN,,Good,2025-10-25,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,765822,8106470,Security Alarm Panel,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-23,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,279451,7897151,Vr (Veeder Root),Gilbarco,UNKNOWN,UNKNOWN,,Fair,2025-10-23,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,660086,8835373,Electrical Panel,Netgear,PROSAFE GS108T,UNKNOWN,,Poor,2025-10-23,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,864544,1908841,Vr (Veeder Root),Veeder-Root,0,UNKNOWN,,Fair,2025-10-23,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,356702,2651177,Electrical Panel,Gilbarco,PA03380000,KGSC188741,,Fair,2025-10-23,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,271339,2016911,Electrical Panel,Manufacturer Not Listed,0,5266,,Good,2025-10-23,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,584714,7754864,Electrical Panel,Manufacturer Not Listed,0,5267,,Fair,,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,497887,6692553,Electrical Panel,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-23,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,383060,2833230,Electrical Panel,Manufacturer Not Listed,UNKNOWN,5265,,Good,2025-10-23,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,771088,5171761,Electrical Panel,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-23,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,821590,4214348,Electrical Panel,Eaton,0,UNKNOWN,,Fair,2025-10-23,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,684004,4191175,Hand Sink,Advance Tabco,0,UNKNOWN,,Good,2025-10-23,Good,FORM_SUBMISSION,{},TX,78701,,,,Front Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,330283,9997381,Rice Cooker,Instant Pot,DUO CRISP AF 8,UNKNOWN,,Fair,2025-10-23,Good,FORM_SUBMISSION,{},TX,78701,,,,Front Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,817870,8526486,Rice Cooker,Instant Pot,IPDUO60 V3,UNKNOWN,,Fair,2025-10-23,Good,FORM_SUBMISSION,{},TX,78701,,,,Front Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,440035,3351868,Air Fryer,Ninja,D2201,H02UY103Z9J4,,Fair,2025-10-23,Good,FORM_SUBMISSION,{},TX,78701,,,,Front Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,983794,8077999,Fire Suppression System Kit/Hood,Captiveaire Systems,5424 ND2,UNKNOWN,,Fair,2025-10-23,Good,FORM_SUBMISSION,{},TX,78701,,,,Front Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,905635,4078418,Rice Cooker,Aroma,ARC1033E,G6220603,,Fair,2025-10-23,Good,FORM_SUBMISSION,{},TX,78701,,,,Front Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,913694,5673212,1 Door Reach-In Refrigerator,True Manufacturing,0,UNKNOWN,,Fair,2025-10-23,Good,FORM_SUBMISSION,{},TX,78701,,,,Front Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,158655,8761611,Convection Oven,Turbochef,0,UNKNOWN,,Good,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Front Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,340174,5191056,Rice Cooker,Manufacturer Not Listed,0,UNKNOWN,,Good,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Front Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,961722,2264748,2 Door Reach-In Refrigerator,True Manufacturing,0,UNKNOWN,,Good,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Front Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,133659,8434500,Rice Cooker,Proluxe,DP1350,93385,,Fair,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Front Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,944151,2642635,Printer/Machine,Date Code Genie,DCG 20,A12060,01/01/2020,Fair,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Front Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,430776,1848731,Mouste And Keyboard,Manufacturer Not Listed,YU0036,2428L03094T8,,Good,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,520651,1247595,Monitor,Manufacturer Not Listed,0,UNKNOWN,,Good,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,380746,2564689,Monitor,Manufacturer Not Listed,0,UNKNOWN,,Unknown,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,169403,4965789,Ice Machine Bulk,Manitowoc,0,UNKNOWN,,Good,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,321231,3790237,Ice Machine Bulk,Manitowoc,0,UNKNOWN,,Good,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,694731,7818496,Beverage Dispenser,Cornelius,0,UNKNOWN,,Good,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,852787,9147706,Beverage Dispenser,Manufacturer Not Listed,0,UNKNOWN,,Excellent,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,429963,9075854,Hot Holding Cabinet,Hatco Corporation,FSD-1 FLAV-R-SAVOR,UNKNOWN,,Fair,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,322955,4586084,Hot Holding Cabinet,Hatco Corporation,FSD-1 FLAV -R-SAVOR,UNKNOWN,,Good,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,787277,7728339,Microwave Convection,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,623481,1983738,Coffee/Tea Brewer,Bunn,DUAL TF DBC120208V FLK,DUAL168489,02/01/2016,Good,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,514850,3762152,Coffee/Tea Brewer,Manufacturer Not Listed,0,UNKNOWN,,Good,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,774079,7358113,Coffee/Tea Brewer,Bunn,TF SERVER 15G MECH GEN3,TFC1120309,,Good,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,581141,1036161,Dispensers,Gold Medal,5300P,5300P63682,03/01/2024,Good,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,249811,7550190,Coffee/Tea Brewer,Manufacturer Not Listed,0,89660 RX,,Good,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,377746,5449368,Espresso Machine,Curtis,0,UNKNOWN,,Good,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,246413,8633773,Coffee/Tea Brewer,Bunn,TF SERVER 15G MECH GEN3,TFC1120267,,Good,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,358607,5785687,Coffee/Tea Brewer,Manufacturer Not Listed,0,UNKNOWN,,Good,2025-10-22,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,881177,8096887,Electrical Panel,Netgear,UNKNOWN,GS108T V2H1,,Fair,2025-10-22,Fair,FORM_SUBMISSION,{},TX,78701,,,,Behind Cash Register
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,688637,9164991,2 Door Upright Reach-In Freezer,Manufacturer Not Listed,L085UAGX,11J0270,,Good,2025-10-21,Good,FORM_SUBMISSION,{},TX,78701,12.5,OZ,R-404A,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,665158,3597059,Electrical Panel,Manufacturer Not Listed,0,UNKNOWN,,Good,2025-10-21,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,375504,4185957,Monitor,Samsung,0,UNKNOWN,,Fair,,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,883300,5977931,Cash/Drop Box,Hyosung,0,UNKNOWN,,Good,2025-10-21,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,712982,4652414,2 Door Upright Reach-In Freezer,"Dryers Grand Ice Cream, Inc",SD-575KE,22A0460709,,Good,2025-10-21,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,549245,1981186,Printer/Machine,Aaron Process,ZQ610,X7J0N210501197,,Poor,,Good,FORM_SUBMISSION,{},TX,78701,,,,Inside Store
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,660086,8835373,Electrical Panel,Netgear,PROSAFE GS108T,UNKNOWN,,Poor,,Good,FORM_SUBMISSION,{},TX,78701,,,,Storage Room
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,983794,8077999,Fire Suppression System Kit/Hood,Captiveaire Systems,5424 ND2,UNKNOWN,,Fair,,Good,FORM_SUBMISSION,{},TX,78701,,,,Front Prep Area
