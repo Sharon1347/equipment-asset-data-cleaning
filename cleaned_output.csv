@@ -11,8 +11,8 @@ ADDRESS,LOCATION,CITY,FAI ID,ASSET TAG,ASSET TYPE,MANUFACTURER,MODEL,SERIAL,MANU
 500 INDUSTRIAL BLVD,Metro Service Center,Austin,207473,3564251,Hand Sink,Advance Tabco,0,UNKNOWN,,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Prep Area
 500 INDUSTRIAL BLVD,Metro Service Center,Austin,809570,3684052,1 Door Reach-In Refrigerator,Duke Manufacturing Co,GDM23HCTSL01,9186711,05/23/2017,Fair,,Good,FORM_SUBMISSION,{},TX,78701,4.1,OZ,R290,Back Prep Area
 500 INDUSTRIAL BLVD,Metro Service Center,Austin,876646,8082668,1 Door Reach-In Refrigerator,Everest Refrigeration,EMGF23,BMGF2316120003,04/16/2023,Good,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,19.75,OZ,R404A,Back Prep Area
-500 INDUSTRIAL BLVD,Metro Service Center,Austin,671858,2065818,2 Door Upright Reach-In Freezer,True Manufacturing,T-23F,1-2915900,05/06/2001,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,12,OZ,R404A,Back Prep Area
-500 INDUSTRIAL BLVD,Metro Service Center,Austin,191161,7455324,2 Door Upright Reach-In Freezer,Beverage-Air Corporation,HBF49-1,11307357,07/24/2011,Good,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,26,lb,R404A,Back Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,671858,2065818,2 Door Upright Reach-In Freezer,True Manufacturing,T-23F,1-2915900,05/06/2001,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,12.0,OZ,R404A,Back Prep Area
+500 INDUSTRIAL BLVD,Metro Service Center,Austin,191161,7455324,2 Door Upright Reach-In Freezer,Beverage-Air Corporation,HBF49-1,11307357,07/24/2011,Good,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,26.0,lb,R404A,Back Prep Area
 500 INDUSTRIAL BLVD,Metro Service Center,Austin,719176,7402509,3 Compartment Sink,Manufacturer Not Listed,0,UNKNOWN,,Fair,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Prep Area
 500 INDUSTRIAL BLVD,Metro Service Center,Austin,542417,8852574,Mop Sink,Manufacturer Not Listed,0,UNKNOWN,,Poor,2025-10-27,Fair,FORM_SUBMISSION,{},TX,78701,,,,Back Prep Area
 500 INDUSTRIAL BLVD,Metro Service Center,Austin,133326,9877065,Fire Suppression System Kit/Hood,0Ahu Fire Protection Inc.,0,UNKNOWN,,Excellent,2025-10-27,Good,FORM_SUBMISSION,{},TX,78701,,,,Back Prep Area
