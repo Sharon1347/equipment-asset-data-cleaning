@@ -5,8 +5,8 @@ from datetime import datetime
 logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(message)s")
 log = logging.getLogger(__name__)
 
-INPUT  = "equipment_messy.csv"
-OUTPUT = "equipment_cleaned.csv"
+INPUT  = "raw_equipment_data.csv"
+OUTPUT = "cleaned_output.csv"
 
 if __name__ == "__main__":
     log.info("Data Cleaning Script — starting")
